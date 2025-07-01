@@ -79,7 +79,7 @@ Contributions are welcome! Fork the repository and create a pull request for rev
 
 ## Contact
 
-For any queries or support, please feel free to contact us at [vikaschhonkar1@gmail.com](mailto:vikaschhonkar1@gmail.com).
+For any queries or support, please feel free to contact us at [gautamsrivastava141@gmail.com](mailto:gautamsrivastava141@gmail.com).
 
 ## Acknowledgments
 
