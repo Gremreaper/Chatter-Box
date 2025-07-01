@@ -37,7 +37,7 @@ The Live Chat App is a real-time communication platform that allows users to eng
 ## Getting Started
 
 ## Screenshots
-![](live-main-chat/screenshots/Picture1.png)
+![](live-chat-main/screenshots/Picture1.png)
 ![](live-main-chat/screenshots/Picture2.png)
 ![](live-main-chat/screenshots/Picture3.png)
 ![](live-main-chat/screenshots/Picture4.png)
