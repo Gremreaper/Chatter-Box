@@ -34,18 +34,6 @@ The Live Chat App is a real-time communication platform that allows users to eng
 - Database: MongoDB
 - Version Control: Git
 
-## Getting Started
-
-## Screenshots
-![](./live-chat-main/screenshots/Picture1.png)
-![](live-main-chat/screenshots/Picture2.png)
-![](live-main-chat/screenshots/Picture3.png)
-![](live-main-chat/screenshots/Picture4.png)
-![](live-main-chat/screenshots/Picture5.png)
-![](live-main-chat/screenshots/Picture6.png)
-![](live-main-chat/screenshots/Picture7.png)
-
-
 ## Live Demo
 You can access the live demo of the Bookiee web application [here]().
 
